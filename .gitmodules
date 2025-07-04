@@ -1,0 +1,9 @@
+[submodule "QRL"]
+	path = QRL
+	url = https://github.com/theQRL/QRL.git
+[submodule "dcrd"]
+	path = dcrd
+	url = https://github.com/decred/dcrd.git
+[submodule "monero"]
+	path = monero
+	url = https://github.com/monero-project/monero.git
